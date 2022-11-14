@@ -10,5 +10,14 @@ h1 {
 
 
 .title__img {
-    border-radius: 20px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
+
+img {
+    width: 100%;
+    display: block;
 }
